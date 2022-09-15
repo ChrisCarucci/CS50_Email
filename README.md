@@ -5,7 +5,7 @@
 https://user-images.githubusercontent.com/10932134/190346566-fa04a640-2048-4e63-873f-fbe1a2cb4c7c.mp4
 
 
-## A Simple Ebay Website where the user can: 
+## A Simple Email Website where the user can: 
 
 - Signup 
 - Login/Logout
